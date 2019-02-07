@@ -6,8 +6,17 @@ import cx from 'classnames';
 const projects = [
   {
     projectName: 'Project Name',
+    author:'name'
     // Etc add all the fields
-  }
+  },
+  {
+    projectName: 'Project Name',
+    // Etc add all the fields
+  },
+  {
+    projectName: 'Project Name',
+    // Etc add all the fields
+  },
 ]
 
 class ProjectListPage extends Component {
@@ -49,7 +58,7 @@ class ProjectListPage extends Component {
           <div className={cx(styles.exampleClass, styles.exampleClass2)}> </div>
         */}
         <div className={styles.exampleClass}>
-          Project List Page
+          Project List Page  rgfdgsdfggfhffg
         </div>
 
         <div>
